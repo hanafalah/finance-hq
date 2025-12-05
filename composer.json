@@ -1,0 +1,209 @@
+{
+    "name": "projects/finance-hq",
+    "autoload": {
+        "psr-4": {
+            "Projects\\FinanceHq\\": "src/"
+        },
+        "files":[
+            "src/helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Hamzah Nur Alfalah",
+            "email": "hamzahnafalah@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Projects\\FinanceHq\\Providers\\FinanceHqServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "xendit/xendit-php": "^7.0",
+        "hanafalah/module-license": "dev-main",
+        "hanafalah/laravel-support": "dev-main",
+        "hanafalah/module-medic-service": "dev-main",
+        "hanafalah/module-payment": "dev-main",
+        "hanafalah/module-payer": "dev-main",
+        "hanafalah/module-people": "dev-main",
+        "hanafalah/module-support": "dev-main",
+        "hanafalah/wellmed-feature": "dev-main",
+        "hanafalah/module-employee": "dev-main",
+        "hanafalah/laravel-xendit": "dev-main"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": {
+        "hanafalah/laravel-feature": {
+            "type": "path",
+            "url": "../../repositories/laravel-feature",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-license": {
+            "type": "path",
+            "url": "../../repositories/module-license",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/wellmed-feature": {
+            "type": "path",
+            "url": "../../repositories/wellmed-feature",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/laravel-xendit": {
+            "type": "path",
+            "url": "../../repositories/laravel-xendit",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-support": {
+            "type": "path",
+            "url": "../../repositories/module-support",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-employee": {
+            "type": "path",
+            "url": "../../repositories/module-employee",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/wellmed-product": {
+            "type": "path",
+            "url": "../../repositories/wellmed-product",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-medic-service": {
+            "type": "path",
+            "url": "../../repositories/module-medic-service",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-service": {
+            "type": "path",
+            "url": "../../repositories/module-service",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-regional": {
+            "type": "path",
+            "url": "../../repositories/module-regional",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/laravel-has-props": {
+            "type": "path",
+            "url": "../../repositories/laravel-has-props",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/laravel-package-generator": {
+            "type": "path",
+            "url": "../../repositories/laravel-package-generator",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/laravel-permission": {
+            "type": "path",
+            "url": "../../repositories/laravel-permission",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/laravel-stub": {
+            "type": "path",
+            "url": "../../repositories/laravel-stub",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/laravel-support": {
+            "type": "path",
+            "url": "../../repositories/laravel-support",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/microtenant": {
+            "type": "path",
+            "url": "../../repositories/microtenant",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-encoding": {
+            "type": "path",
+            "url": "../../repositories/module-encoding",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-profession": {
+            "type": "path",
+            "url": "repositories/module-profession",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-card-identity": {
+            "type": "path",
+            "url": "repositories/module-card-identity",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-people": {
+            "type": "path",
+            "url": "../../repositories/module-encoding",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-payment": {
+            "type": "path",
+            "url": "../../repositories/module-payment",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-payer": {
+            "type": "path",
+            "url": "../../repositories/module-payer",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-organization": {
+            "type": "path",
+            "url": "../../repositories/module-organization",
+            "options": {
+                "symlink": true
+            }
+        },
+        "hanafalah/module-tax": {
+            "type": "path",
+            "url": "../../repositories/module-tax",
+            "options": {
+                "symlink": true
+            }
+        }
+    }
+}
