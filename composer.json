@@ -25,7 +25,6 @@
         "xendit/xendit-php": "^7.0",
         "hanafalah/module-license": "dev-main",
         "hanafalah/laravel-support": "dev-main",
-        "hanafalah/module-medic-service": "dev-main",
         "hanafalah/module-payment": "dev-main",
         "hanafalah/module-payer": "dev-main",
         "hanafalah/module-people": "dev-main",
@@ -79,6 +78,7 @@
                 "symlink": true
             }
         },
+<<<<<<< HEAD
         "hanafalah/wellmed-product": {
             "type": "path",
             "url": "../../repositories/wellmed-product",
@@ -107,6 +107,8 @@
                 "symlink": true
             }
         },
+=======
+>>>>>>> 6e8a834f65ec37ce788214c4290da0501644f1f6
         "hanafalah/laravel-has-props": {
             "type": "path",
             "url": "../../repositories/laravel-has-props",
