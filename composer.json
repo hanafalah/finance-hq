@@ -43,6 +43,13 @@
                 "symlink": true
             }
         },
+        "hanafalah/module-service": {
+            "type": "path",
+            "url": "../../repositories/module-service",
+            "options": {
+                "symlink": true
+            }
+        },
         "hanafalah/module-license": {
             "type": "path",
             "url": "../../repositories/module-license",
@@ -78,37 +85,6 @@
                 "symlink": true
             }
         },
-<<<<<<< HEAD
-        "hanafalah/wellmed-product": {
-            "type": "path",
-            "url": "../../repositories/wellmed-product",
-            "options": {
-                "symlink": true
-            }
-        },
-        "hanafalah/module-medic-service": {
-            "type": "path",
-            "url": "../../repositories/module-medic-service",
-            "options": {
-                "symlink": true
-            }
-        },
-        "hanafalah/module-service": {
-            "type": "path",
-            "url": "../../repositories/module-service",
-            "options": {
-                "symlink": true
-            }
-        },
-        "hanafalah/module-regional": {
-            "type": "path",
-            "url": "../../repositories/module-regional",
-            "options": {
-                "symlink": true
-            }
-        },
-=======
->>>>>>> 6e8a834f65ec37ce788214c4290da0501644f1f6
         "hanafalah/laravel-has-props": {
             "type": "path",
             "url": "../../repositories/laravel-has-props",

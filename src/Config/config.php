@@ -73,7 +73,6 @@ return [
         'hanafalah/module-people'               => ['repository' =>'hamzahnafalahkalpa/module-people','provider' => 'Hanafalah\\ModulePeople\\ModulePeopleServiceProvider'],
         'hanafalah/module-card-identity'        => ['repository' =>'hamzahnafalahkalpa/module-card-identity','provider' => 'Hanafalah\\ModuleCardIdentity\\ModuleCardIdentityServiceProvider'],
         'hanafalah/module-regional'             => ['repository' =>'hamzahnafalahkalpa/module-regional','provider' => 'Hanafalah\\ModuleRegional\\ModuleRegionalServiceProvider'],
-        'hanafalah/module-medic-service'        => ['repository' =>'hamzahnafalahkalpa/module-medic-service','provider' => 'Hanafalah\\ModuleMedicService\\ModuleMedicServiceServiceProvider'],
         'hanafalah/module-service'              => ['repository' =>'hamzahnafalahkalpa/module-service','provider' => 'Hanafalah\\ModuleService\\ModuleServiceServiceProvider'],
         'hanafalah/module-support'              => ['repository' =>'hamzahnafalahkalpa/module-support','provider' => 'Hanafalah\\ModuleSupport\\ModuleSupportServiceProvider'],
         'hanafalah/module-transaction'          => ['repository' =>'hamzahnafalahkalpa/module-transaction','provider' => 'Hanafalah\\ModuleTransaction\\ModuleTransactionServiceProvider'],
